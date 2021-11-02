@@ -1,2 +1,2 @@
 # HallowWorld
-it's my first project, nothing more
+it's my first project on GitHub, nothing more
